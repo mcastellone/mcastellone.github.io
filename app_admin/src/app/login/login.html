@@ -1,0 +1,11 @@
+<h1>Admin Login</h1>
+
+<form>
+  <label>Email</label><br>
+  <input type="email" [(ngModel)]="credentials.email" name="email"><br><br>
+
+  <label>Password</label><br>
+  <input type="password" [(ngModel)]="credentials.password" name="password"><br><br>
+
+  <button type="button" (click)="login()">Login</button>
+</form>
