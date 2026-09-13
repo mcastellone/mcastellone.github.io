@@ -1,0 +1,22 @@
+[
+  {
+    "code": "GALE",
+    "name": "Gale Reef",
+    "length": "4 nights",
+    "start": "2026-06-15",
+    "resort": "Emerald Bay",
+    "perPerson": "799",
+    "image": "reef1.jpg",
+    "description": "Sed et augue lorem. In sit amet placerat arcu."
+  },
+  {
+    "code": "DAWSON",
+    "name": "Dawson's Reef",
+    "length": "5 nights",
+    "start": "2026-07-01",
+    "resort": "Coral Sands",
+    "perPerson": "999",
+    "image": "reef2.jpg",
+    "description": "Integer magna leo posuere et dignissim vitae."
+  }
+]
