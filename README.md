@@ -2,6 +2,13 @@
 
 This repository contains the original source code and enhanced artifacts used for my CS 499 Computer Science Capstone ePortfolio.
 
+## Code Review
+
+As part of my CS 499 Computer Science Capstone, I conducted a code review of the artifacts selected for my ePortfolio. The review examines the existing code, identifies areas for improvement, and explains my planned enhancements in software engineering and design, algorithms and data structures, and databases.
+
+[Watch My CS 499 Code Review Video] https://drive.google.com/file/d/1qJr0sSDeVEm6DdlZ7TMfNu1WztZz0Hoo/view?usp=sharing
+
+
 ## Original Artifacts
 
 ### Travlr – CS 465 Full Stack Development
