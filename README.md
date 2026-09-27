@@ -21,11 +21,14 @@ The original Travlr source code includes:
 - package-lock.json
 
 ### Treasure Hunt – CS 370 Current/Emerging Trends in Computer Science
-The Treasure Hunt project is my selected artifact for Algorithms and Data Structures. The original Jupyter Notebook is included as the baseline for the enhancements I will complete during CS 499.
+The Treasure Hunt project is my selected artifact for Algorithms and Data Structures. I originally developed this intelligent agent in CS 370 using Python and deep Q-learning. During CS 499, I enhanced the project to improve the organization, efficiency, reproducibility, and evaluation of the learning algorithm. The original Jupyter Notebook remains available as a baseline for comparison with the enhanced version.
 
 Original source code:
-- TreasureHuntGame_starterCode.ipynb
+- Original source code:[TreasureHuntGame_starterCode.ipynb](TreasureHuntGame_starterCode.ipynb)
+- Enhanced source code:[TreasureHuntGame_Enhanced.ipynb](TreasureHuntGame_Enhanced.ipynb)
 
-## CS 499 Enhancements
+### Enhancement Summary
 
-Throughout CS 499, I will enhance these artifacts to demonstrate growth in software engineering and design, algorithms and data structures, and databases. The original source code will remain available as a baseline for comparison with the enhanced versions.
+For CS 499, I enhanced the Treasure Hunt intelligent agent to demonstrate my growth in algorithms and data structures. The enhanced version improves the deep Q-learning process through valid-action selection, bounded experience replay, a target network, controlled epsilon decay, reproducibility settings, bounded episode lengths, and performance tracking for loss, win rate, epsilon, and steps.
+
+These enhancements make the agent's learning process more organized and measurable while demonstrating algorithmic decision-making, reinforcement learning, and the purposeful use of data structures.
