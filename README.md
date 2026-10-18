@@ -83,8 +83,13 @@ These enhancements make the agent's learning process more organized and measurab
 
 [Read Algorithms and Data Structures Narrative](algorithms-narrative.md)
 
+## Databases – Travlr MongoDB Enhancement
+
+For the Databases category, I enhanced the MongoDB database component of my Travlr full-stack web application, originally developed in CS 465. The enhancement focused on improving Mongoose schema validation, enforcing unique trip codes, adding database indexes, and expanding API query functionality.
+
+I also improved error handling for database operations and maintained JWT authentication for requests that modify trip data. These improvements demonstrate my understanding of database design, data integrity, security, and full-stack application integration.
+
 ### Database Enhancement Narrative
 
 [Read Database Enhancement Narrative](database-narrative.md)
-
 
