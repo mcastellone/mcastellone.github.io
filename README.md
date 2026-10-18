@@ -60,6 +60,10 @@ The original Travlr source code remains available in this repository as the base
 **Original Artifact:** Travlr application developed in CS 465  
 **Enhanced Artifact:** Travlr Software Engineering and Design enhancement completed in CS 499
 
+### Software Engineering Enhancement Narrative
+[View Milestone Two Narrative](3-2%20Milestone%20Two.docx)
+
+
 ### Treasure Hunt – CS 370 Current/Emerging Trends in Computer Science
 The Treasure Hunt project is my selected artifact for Algorithms and Data Structures. I originally developed this intelligent agent in CS 370 using Python and deep Q-learning. During CS 499, I enhanced the project to improve the organization, efficiency, reproducibility, and evaluation of the learning algorithm. The original Jupyter Notebook remains available as a baseline for comparison with the enhanced version.
 
@@ -72,3 +76,13 @@ Original source code:
 For CS 499, I enhanced the Treasure Hunt intelligent agent to demonstrate my growth in algorithms and data structures. The enhanced version improves the deep Q-learning process through valid-action selection, bounded experience replay, a target network, controlled epsilon decay, reproducibility settings, bounded episode lengths, and performance tracking for loss, win rate, epsilon, and steps.
 
 These enhancements make the agent's learning process more organized and measurable while demonstrating algorithmic decision-making, reinforcement learning, and the purposeful use of data structures.
+
+### Algorithms and Data Structures Enhancement Narrative
+
+[View Milestone Three Narrative](CS499_Milestone_Three_Narrative.docx)
+
+### Database Enhancement Narrative
+
+[View Milestone Four Narrative](Milestone%20Four-%20Database%20Enhancement%20Narrative.docx)
+
+
