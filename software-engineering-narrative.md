@@ -5,6 +5,7 @@ Marissa Castellone
 3-2 Milestone Two
 
 Artifact Description
+
 The Travlr full-stack web application, which I initially developed during CS 465 Full Stack Development, is the artifact I chose for the software design and engineering category. Travlr employs an Angular administration interface, MongoDB with Mongoose for persistent trip data, and Node.js and Express for the server and REST API. Trip records can be created, updated, and deleted using the application's protected administrative functions, which also enable trip information to be obtained via the API. I chose this item because it shows how a software system's frontend, backend, database, routing, authentication, and application configuration all operate together. 
 
 Rationale for Inclusion and Improvement
